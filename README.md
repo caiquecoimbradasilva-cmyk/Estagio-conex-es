@@ -1,4 +1,4 @@
-# Estagio-conex-es
+# Estagio-conexões
 Site de estagio, formando conexões com empresas e futuros melhores.
 
 TECNOLIGIAS UTILIZADAS:
